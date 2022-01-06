@@ -1,1 +1,2 @@
-# sip-
+# InternshipJavaProject2
+Home Inventory Project
